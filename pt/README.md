@@ -4,8 +4,8 @@ Bem-vindo ao repositório de exemplos de instalação da AdOpt! Aqui você encon
 
 ## Instalação da AdOpt em Diferentes Frameworks
 
-- [HTML](/html)
-- [React](/react-app)
-- [Next.js](/nextjs)
+- [HTML](/pt/html)
+- [React](/pt/react-app)
+- [Next.js](/pt/nextjs)
 
 Se você tiver alguma dúvida ou precisar de assistência adicional, entre em contato com a equipe de suporte da AdOpt.
